@@ -1,0 +1,120 @@
+html, body, h1, h2, h3, h4, h5, h6, .btn {
+    font-family: "Roboto", sans-serif;
+}
+
+html, footer {
+    background-color: #1a1a1a;
+}
+
+footer {
+    color: white;
+    padding: 2%;
+}
+
+li {
+    list-style: none;
+}
+
+.coluna{
+    padding-top: 3%;
+    padding-bottom: 1%;
+}
+
+.lateral {
+    background-color: #d5896f;
+}
+
+.principal {
+    background-color: #cfe8ef;
+}
+
+.centro {
+  text-align: center;
+}
+
+.pessoa {
+  width: 50%;
+  border-radius: 50%;
+}
+
+.nome {
+  margin-top: 30px;
+  font-size: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  display: block;
+}
+
+.btn {
+  margin-top: 30px;
+}
+
+h4 {
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  font-size: 20px;
+  font-weight: 600;
+  background-color: #36827f;
+  color: white;
+  padding: 5px 0px 5px 10px;
+  margin-bottom: 10px;
+}
+
+.item-curriculo {
+    margin-bottom: 25px;
+    margin-left: 2px;
+}
+
+.item-tempo {
+    margin-top: 15px;
+    font-size: 16px;
+    
+}
+
+.item-titulo {
+    margin-top: 12px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.item-empresa {
+    font-size: 18px;
+}
+
+.item-corpo {
+    font-size: 16px;
+    margin-top: 2px;
+}
+
+.celular {
+  margin-top: 15px;
+  font-size: 16px;
+  display: block;
+  color: black;
+}
+
+a.email:link, a.email:visited, a.email:active, a.email:hover {
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.emailContainer {
+  display: block;
+  margin-top: 15px;
+}
+
+a.social:link, a.social:visited, a.social:active, a.social:hover {
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
